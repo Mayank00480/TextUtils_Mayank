@@ -1,0 +1,11 @@
+.first{
+   color:white;
+    background-color: blue;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-right: 5px;
+    padding: 5px;
+}
+.container{
+    width:1000px;
+}
